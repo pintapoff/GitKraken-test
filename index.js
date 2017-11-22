@@ -1,2 +1,2 @@
 index.js feature1
-adding feature2
+adding feature2 
